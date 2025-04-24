@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend and CS
 - 🌱 I’m currently learning Fundamental backend communications and protocols, and Postgesql
 - 💞️ I’m looking to collaborate on APIs, System design, LLM intergrations
-- 📫 How to reach me (Linkedin)[https://uz.linkedin.com/in/bek-shoyatbek]
+- 📫 How to reach me [Linkedin](https://uz.linkedin.com/in/bek-shoyatbek)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing FIFA 2025 and Ping-pong
 
